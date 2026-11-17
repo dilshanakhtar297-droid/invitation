@@ -68,7 +68,7 @@ export function ClosingSection({ onReplayIntro }: ClosingSectionProps) {
         {/* Compliments Section */}
         <div className="my-6 space-y-1">
           <p className="font-serif text-sm sm:text-base text-[#F8F3E8]/90 font-medium">
-            {closing.compliments}
+           
           </p>
           <p className="font-serif text-xs sm:text-sm text-[#E5C365] tracking-wider uppercase font-semibold">
             {closing.sbtFamilyCompliments}

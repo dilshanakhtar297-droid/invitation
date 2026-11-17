@@ -155,7 +155,8 @@ export const weddingData: WeddingData = {
       "“May Allah bless you, shower His blessings upon you, and unite you both in goodness.”",
     message:
       "Thank you for being part of our celebration. Your presence and duas mean so much to our families. May Allah bless this union with love, mercy, peace, and barakah.",
-    sbtFamilyCompliments: "With Love & Best Wishes from Our Dear Nephews\nInaaya, Zikraa, Azlan, Muaz, Maryam, Zayan, Ahil, Ibrahim, Zaynab, Fariha.",
+    compliments: "With Love & Best Wishes from Our Dear Nephews\nInaaya, Zikraa, Azlan, Muaz, Maryam, Zayan, Ahil, Ibrahim, Zaynab, Fariha.",
+   
   },
   shareDetails: {
     title: "Wedding Invitation — Gufran Shabbir Shaikh & Iram Babar Ansari",

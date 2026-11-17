@@ -143,7 +143,7 @@ export const weddingData: WeddingData = {
       title: "Groom's Family",
       candidateName: "Gufran Shabbir Shaikh",
       qualifications: "",
-      relationshipTitle: "Groom's Family",
+      relationshipTitle: "Late Shabbir Bashir Shaikh",
       fatherInfo: "Family of Gufran Shabbir Shaikh",
       additionalInfo: "",
     },
@@ -156,7 +156,7 @@ export const weddingData: WeddingData = {
     message:
       "Thank you for being part of our celebration. Your presence and duas mean so much to our families. May Allah bless this union with love, mercy, peace, and barakah.",
     compliments: "With Love & Best Wishes from Our Dear Nephews\nInaaya, Zikraa, Azlan, Muaz, Maryam, Zayan, Ahil, Ibrahim, Zaynab, Fariha.",
-    sbtFamilyCompliments: "With Love & Best Wishes from Our Dear Nephews\nInaaya, Zikraa, Azlan, Muaz, Maryam, Zayan, Ahil, Ibrahim, Zaynab, Fariha.",
+    sbtFamilyCompliments: "With Love & Best Wishes from Our Dear Ones\nInaaya, Zikraa, Azlan, Muaz, Maryam, Zayan, Ahil, Ibrahim, Zaynab, Fariha.",
   },
   shareDetails: {
     title: "Wedding Invitation — Gufran Shabbir Shaikh & Iram Babar Ansari",
